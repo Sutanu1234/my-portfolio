@@ -795,6 +795,7 @@ custom curser
 
 .section-title{
   margin-block-end: 16px;
+  color: #e8d2ff;
 }
 
 
@@ -854,15 +855,6 @@ custom curser
   color: var(--on-surface-variant);
 }
 
-/* .social-list{
-  display: flex;
-  gap: 12px;
-}
-
-.social-item{
-  padding: 12px;
-} */
-
 /* new elevation social botton */
 
 .social-wrapper {
@@ -884,7 +876,6 @@ custom curser
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  /* box-shadow: 0 10px 10px rgba(255, 255, 255, 0.169); */
   cursor: pointer;
   transition: all 0.8s cubic-bezier(0, 0.46, 0, 1.16) 0s;
 }
